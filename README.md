@@ -16,7 +16,7 @@ pip install -r requirements.txt
 uvicorn backend.main:app --reload --port 8000      # terminal 1 (run from project root)
 streamlit run frontend/app.py                      # terminal 2
 ```
-LLM settings (DeepSeek-V3 via the TCS GenAI Lab proxy) live in `.env` — copy `.env.example` if you need to reset it.
+LLM settings (DeepSeek-V3) live in `.env` — copy `.env.example` if you need to reset it.
 First backend run downloads the `all-MiniLM-L6-v2` embedding model (needs internet once) and prints a default HR login:
 ```
 hr@company.com / hr123
