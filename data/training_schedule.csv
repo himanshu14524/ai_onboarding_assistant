@@ -1,0 +1,15 @@
+course_id,title,role,day,start_time,duration_min,mode,location,link,mandatory,prerequisite
+C001,Welcome and Company Orientation,All,1,10:00,90,In-person,Chennai,https://learning.example.com/orientation,Yes,
+C002,Welcome and Company Orientation (Virtual),All,1,10:00,90,Virtual,Remote,https://learning.example.com/orientation-virtual,Yes,
+C003,HR Policies and Benefits Walkthrough,All,1,14:00,60,Virtual,All,https://learning.example.com/hr-benefits,Yes,
+C004,Information Security Awareness,All,3,10:00,60,Self-paced,All,https://learning.example.com/infosec,Yes,Set up corporate email and MFA
+C005,Code of Conduct and POSH,All,3,14:00,45,Self-paced,All,https://learning.example.com/coc-posh,Yes,Set up corporate email and MFA
+C006,Engineering Tools and CI/CD Primer,Software Engineer,2,11:00,90,Virtual,All,https://learning.example.com/eng-cicd,Yes,Get repository and CI/CD access approved
+C007,Secure Coding Fundamentals,Software Engineer,4,10:00,120,Self-paced,All,https://learning.example.com/secure-coding,Yes,Get repository and CI/CD access approved
+C008,Team Codebase Walkthrough,Software Engineer,4,15:00,60,Virtual,All,https://learning.example.com/codebase-tour,No,
+C009,Data Warehouse and BI Dashboards Intro,Data Analyst,2,11:00,90,Virtual,All,https://learning.example.com/dwh-bi,Yes,Get access to BI dashboards and data warehouse
+C010,SQL and Data Governance,Data Analyst,4,10:00,120,Self-paced,All,https://learning.example.com/sql-governance,Yes,Get access to BI dashboards and data warehouse
+C011,Test Strategy and Defect Lifecycle,QA Engineer,2,11:00,90,Virtual,All,https://learning.example.com/test-strategy,Yes,Get test environment and defect tracker access
+C012,Test Automation Framework Tour,QA Engineer,4,10:00,90,Self-paced,All,https://learning.example.com/test-automation,No,
+C013,Requirements Elicitation Playbook,Business Analyst,4,10:00,90,Self-paced,All,https://learning.example.com/req-playbook,Yes,Get access to requirements repository and workflow tools
+C014,Week 1 Wrap-up and Manager 1:1,All,5,16:00,30,Virtual,All,https://learning.example.com/week1-wrapup,Yes,

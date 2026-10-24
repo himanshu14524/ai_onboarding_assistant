@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#2f9bd6"        # light blue - buttons, active elements
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#e7f8ee"  # light green - sidebar / widget backgrounds
+textColor = "#1c3d3f"
+font = "sans serif"

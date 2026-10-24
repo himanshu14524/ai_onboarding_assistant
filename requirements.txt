@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy>=2.0
+pydantic>=2
+streamlit>=1.32
+requests
+httpx
+python-dotenv
+pypdf
+python-docx
+langchain>=0.3
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+# LLM providers (install the one you use; app also works with neither)
+langchain-anthropic
+langchain-openai
